@@ -1,6 +1,6 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
+title: Nihongo på svenska
+description: Att lära mig japanska (日本語) och blogga på svenska
+show_downloads: false
 google_analytics:
 #theme: jekyll-theme-slate
 remote_theme: pages-themes/slate@v0.2.0
